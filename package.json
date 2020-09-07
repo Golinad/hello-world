@@ -1,6 +1,6 @@
 {
   "name": "com.github.golinad.hello-world",
-  "version": "0.9.1",
+  "version": "0.10.0",
   "displayName": "Hello World",
   "description": "Git Unity package experiment",
   "unity": "2018.3",
