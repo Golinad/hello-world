@@ -1,4 +1,4 @@
 # hello-world
 
 
-seems to be markdown
+This is a totally experimental meta-project, to get experiment with to git and git-hub.
